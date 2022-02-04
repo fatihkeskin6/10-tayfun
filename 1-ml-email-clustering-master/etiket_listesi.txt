@@ -1,5 +1,6 @@
 python
     fonksiyon oluşturma
+    çıktı işlemleri
     döngü kullanımı
     veri çekme
     koşullar
@@ -53,7 +54,6 @@ python
                 linear_kernel
     helpers
         parse_into_emails
-    print
 
         
     
